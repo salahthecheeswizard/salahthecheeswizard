@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salahthecheeswizard student at 1337 coding school
+- 👋 Hi, I’m @salahthecheesewizard student at 1337 coding school
 - 🌱 I’m currently learning object oriented C 
 - 📫 How to reach me badrisalah47@gmail.com
 - 😄 Pronouns: what are those??
